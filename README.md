@@ -62,3 +62,9 @@ API Integration: Connecting to the YouTube Data API for real-time trending conte
 User Profiles: Implementing a local database to save a student's learning history and track progress.
 
 Machine Learning: Transitioning from a Knowledge-Based system to a Collaborative Filtering model that learns from a community of student users.
+
+
+
+OUTPUT:
+
+<img width="1920" height="932" alt="Screenshot 2026-03-29 165424" src="https://github.com/user-attachments/assets/466058d7-2753-423e-ade9-874928b6cfa2" />
